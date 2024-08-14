@@ -1,6 +1,6 @@
 - 👋 Hello how have ou been! i wish you would be quite well,
-- oh let me intr myself.
--  This is @thegovindsingh.
+- oh let me introduce myself.
+-  This is GovindSingh.
 - 👀 I’m a asp.net developer and moving towards full stack java development.
 - 🌱 I’m currently learning advance java and data structure and algorithms.
 - 💞️ I’m looking to collaborate who can inhence my skills and knowledge with respect to computer science.
